@@ -1,4 +1,4 @@
-# Mode-Recgonition
+# Mode-Recognition
 
 Additional viusalizations to our Paper "Mode Recognition by Shape Morphing for Maxwell's Eigenvalue Problem"
 
