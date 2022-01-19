@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ziegler"
+  given-names: "Anna"
+- family-names: "Georg"
+  given-names: "Niklas"
+- family-names: "Ackermann"
+  given-names: "Wolfgang"
+- family-names: "Schoeps"
+  given-names: "Sebastian"
+title: "Mode Recognition by Shape Morphing for Maxwell's Eigenvalue Problem"
+version: 1.0
+doi: 
+date-released: 2022-01-19
+url: "https://github.com/amz78/Mode-Recgonition"
